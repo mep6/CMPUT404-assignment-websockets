@@ -9,6 +9,7 @@ Make a shared state Websockets drawing program
 
 Prereqs
 =======
+pip install flask
 
 pip install flask-sockets
 
@@ -57,3 +58,10 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Michele Paulichuk
+
+
+Resources Consulted:
+====================
+
+* Abram Hindle's https://github.com/abramhindle/WebSocketsExamples
